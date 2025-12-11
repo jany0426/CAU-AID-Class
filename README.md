@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Author
-Developed by Choi Jihan
+Developed by [Choi Jihan]()
